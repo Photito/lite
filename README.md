@@ -1,1 +1,1 @@
-# ryanconfigslite.github.io
+# ryanconfigs.github.io
